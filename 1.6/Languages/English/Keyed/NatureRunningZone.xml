@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NatureRunningZone_Label>Nature running zone</NatureRunningZone_Label>
+  <NatureRunningZone_Desc>Designate an area where children can run around for nature running learning.</NatureRunningZone_Desc>
+  <NatureRunningZone_SettingsCategory>Nature Running Zone</NatureRunningZone_SettingsCategory>
+  <NatureRunningZone_Settings_TerrainMode>Allowed terrain</NatureRunningZone_Settings_TerrainMode>
+  <NatureRunningZone_Settings_NaturalOnly>Natural terrain only</NatureRunningZone_Settings_NaturalOnly>
+  <NatureRunningZone_Settings_AllTerrain>All terrain</NatureRunningZone_Settings_AllTerrain>
+  <NatureRunningZone_Settings_AllowIndoor>Allow roofed/indoor zones</NatureRunningZone_Settings_AllowIndoor>
+  <NatureRunningZone_Settings_FallbackNoZone>Use vanilla search when no nature running zone exists</NatureRunningZone_Settings_FallbackNoZone>
+  <NatureRunningZone_Settings_FallbackZoneFails>Use vanilla search when nature running zones fail</NatureRunningZone_Settings_FallbackZoneFails>
+  <NatureRunningZone_Settings_VerboseLogging>Verbose logging</NatureRunningZone_Settings_VerboseLogging>
+  <NatureRunningZone_Settings_MinDistance>Minimum distance from child: {0}</NatureRunningZone_Settings_MinDistance>
+  <NatureRunningZone_Settings_MinCells>Minimum valid zone cells: {0}</NatureRunningZone_Settings_MinCells>
+  <NatureRunningZone_Debug_OverlayOn>on</NatureRunningZone_Debug_OverlayOn>
+  <NatureRunningZone_Debug_OverlayOff>off</NatureRunningZone_Debug_OverlayOff>
+  <NatureRunningZone_Debug_OverlayToggled>Nature Running Zone overlay: {0}</NatureRunningZone_Debug_OverlayToggled>
+  <NatureRunningZone_Debug_OverlayHeader>Nature Running Zone overlay: {0}
+Green valid, yellow too close, red invalid, gray zone blocked</NatureRunningZone_Debug_OverlayHeader>
+  <NatureRunningZone_Debug_ZoneBlocked>{0}: blocked ({1})</NatureRunningZone_Debug_ZoneBlocked>
+  <NatureRunningZone_Debug_ZoneTooFewCells>{0}: {1}/{2} ({3})</NatureRunningZone_Debug_ZoneTooFewCells>
+  <NatureRunningZone_Debug_ZoneValid>{0}: {1} valid</NatureRunningZone_Debug_ZoneValid>
+  <NatureRunningZone_Debug_DifferentMap>different map</NatureRunningZone_Debug_DifferentMap>
+  <NatureRunningZone_Debug_EmptyZone>empty zone</NatureRunningZone_Debug_EmptyZone>
+  <NatureRunningZone_Debug_Temperature>temperature</NatureRunningZone_Debug_Temperature>
+  <NatureRunningZone_Debug_Vacuum>vacuum</NatureRunningZone_Debug_Vacuum>
+  <NatureRunningZone_Debug_NotEnoughValidCells>not enough valid cells</NatureRunningZone_Debug_NotEnoughValidCells>
+  <NatureRunningZone_Debug_Unknown>unknown</NatureRunningZone_Debug_Unknown>
+</LanguageData>
