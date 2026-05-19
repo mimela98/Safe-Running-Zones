@@ -2,7 +2,7 @@ using RimWorld;
 using UnityEngine;
 using Verse;
 
-namespace FrostyDog.NatureRunningZone;
+namespace FrostyDog.SafeRunningZones;
 
 public sealed class Designator_ZoneAdd_NatureRunning : Designator_ZoneAdd
 {

@@ -2,7 +2,7 @@ using HarmonyLib;
 using RimWorld;
 using Verse;
 
-namespace FrostyDog.NatureRunningZone;
+namespace FrostyDog.SafeRunningZones;
 
 [HarmonyPatch(typeof(NatureRunningUtility), nameof(NatureRunningUtility.TryFindNatureInterestTarget))]
 internal static class Patch_NatureRunningUtility_TryFindNatureInterestTarget

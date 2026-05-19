@@ -3,7 +3,7 @@ using RimWorld;
 using UnityEngine;
 using Verse;
 
-namespace FrostyDog.NatureRunningZone;
+namespace FrostyDog.SafeRunningZones;
 
 public sealed class Zone_NatureRunning : Zone
 {

@@ -7,7 +7,7 @@ using RimWorld.Planet;
 using UnityEngine;
 using Verse;
 
-namespace FrostyDog.NatureRunningZone;
+namespace FrostyDog.SafeRunningZones;
 
 internal static class NatureRunningDebugOverlay
 {
@@ -35,7 +35,7 @@ internal static class NatureRunningDebugOverlay
         }
     }
 
-    [DebugAction("Nature Running Zone", "Toggle selected pawn overlay", actionType = DebugActionType.Action, allowedGameStates = AllowedGameStates.PlayingOnMap)]
+    [DebugAction("Safe Running Zones", "Toggle selected pawn overlay", actionType = DebugActionType.Action, allowedGameStates = AllowedGameStates.PlayingOnMap)]
     private static void ToggleSelectedPawnOverlay()
     {
         enabled = !enabled;

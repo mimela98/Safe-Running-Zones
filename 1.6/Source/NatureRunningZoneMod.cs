@@ -4,7 +4,7 @@ using RimWorld;
 using UnityEngine;
 using Verse;
 
-namespace FrostyDog.NatureRunningZone;
+namespace FrostyDog.SafeRunningZones;
 
 public sealed class NatureRunningZoneMod : Mod
 {
@@ -13,7 +13,7 @@ public sealed class NatureRunningZoneMod : Mod
     public NatureRunningZoneMod(ModContentPack content) : base(content)
     {
         Settings = GetSettings<NatureRunningZoneSettings>();
-        new Harmony("frostydog.naturerunningzone").PatchAll();
+        new Harmony("frostydog.saferunningzones").PatchAll();
     }
 
     public override string SettingsCategory()

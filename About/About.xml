@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <packageId>frostydog.naturerunningzone</packageId>
-  <name>Nature Running Zone</name>
+  <packageId>frostydog.saferunningzones</packageId>
+  <name>Safe Running Zones</name>
   <authors>
     <li>FrostyDog</li>
   </authors>
-  <description>Adds a dedicated zone for Biotech children's nature running learning activity.</description>
+  <description>Adds dedicated safe running zones for Biotech children's nature running learning activity.</description>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>

@@ -1,6 +1,6 @@
 using Verse;
 
-namespace FrostyDog.NatureRunningZone;
+namespace FrostyDog.SafeRunningZones;
 
 internal static class NatureRunningLog
 {
@@ -8,7 +8,7 @@ internal static class NatureRunningLog
     {
         if (NatureRunningZoneMod.Settings.verboseLogging)
         {
-            Log.Message("[Nature Running Zone] " + message);
+            Log.Message("[Safe Running Zones] " + message);
         }
     }
 }

@@ -4,7 +4,7 @@ using RimWorld;
 using Verse;
 using Verse.AI;
 
-namespace FrostyDog.NatureRunningZone;
+namespace FrostyDog.SafeRunningZones;
 
 internal static class NatureRunningJobCache
 {

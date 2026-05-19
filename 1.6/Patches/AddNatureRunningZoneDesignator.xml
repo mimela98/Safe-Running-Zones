@@ -3,7 +3,7 @@
   <Operation Class="PatchOperationAdd">
     <xpath>/Defs/DesignationCategoryDef[defName="Zone"]/specialDesignatorClasses</xpath>
     <value>
-      <li>FrostyDog.NatureRunningZone.Designator_ZoneAdd_NatureRunning</li>
+      <li>FrostyDog.SafeRunningZones.Designator_ZoneAdd_NatureRunning</li>
     </value>
   </Operation>
 </Patch>

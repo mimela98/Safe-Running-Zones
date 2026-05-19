@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <NatureRunningZone_Label>뛰어놀기 구역</NatureRunningZone_Label>
-  <NatureRunningZone_Desc>아이들이 자연 뛰어놀기 학습을 할 수 있는 전용 구역을 지정합니다.</NatureRunningZone_Desc>
-  <NatureRunningZone_SettingsCategory>뛰어놀기 구역</NatureRunningZone_SettingsCategory>
+  <NatureRunningZone_Desc>아이들이 안전하게 자연 뛰어놀기 학습을 할 수 있는 전용 구역을 지정합니다.</NatureRunningZone_Desc>
+  <NatureRunningZone_SettingsCategory>안전한 뛰어놀기</NatureRunningZone_SettingsCategory>
   <NatureRunningZone_Settings_TerrainMode>허용 바닥</NatureRunningZone_Settings_TerrainMode>
   <NatureRunningZone_Settings_NaturalOnly>자연 바닥만</NatureRunningZone_Settings_NaturalOnly>
   <NatureRunningZone_Settings_AllTerrain>모든 바닥</NatureRunningZone_Settings_AllTerrain>
   <NatureRunningZone_Settings_AllowIndoor>지붕/실내 구역 허용</NatureRunningZone_Settings_AllowIndoor>
-  <NatureRunningZone_Settings_FallbackNoZone>뛰어놀기 구역이 없으면 바닐라 검색 사용</NatureRunningZone_Settings_FallbackNoZone>
-  <NatureRunningZone_Settings_FallbackZoneFails>뛰어놀기 구역 실패 시 바닐라 검색 사용</NatureRunningZone_Settings_FallbackZoneFails>
+  <NatureRunningZone_Settings_FallbackNoZone>안전한 뛰어놀기 구역이 없으면 바닐라 검색 사용</NatureRunningZone_Settings_FallbackNoZone>
+  <NatureRunningZone_Settings_FallbackZoneFails>안전한 뛰어놀기 구역 실패 시 바닐라 검색 사용</NatureRunningZone_Settings_FallbackZoneFails>
   <NatureRunningZone_Settings_VerboseLogging>상세 로그</NatureRunningZone_Settings_VerboseLogging>
   <NatureRunningZone_Settings_MinDistance>아이와의 최소 거리: {0}</NatureRunningZone_Settings_MinDistance>
   <NatureRunningZone_Settings_MinCells>최소 유효 구역 셀 수: {0}</NatureRunningZone_Settings_MinCells>
   <NatureRunningZone_Debug_OverlayOn>켜짐</NatureRunningZone_Debug_OverlayOn>
   <NatureRunningZone_Debug_OverlayOff>꺼짐</NatureRunningZone_Debug_OverlayOff>
-  <NatureRunningZone_Debug_OverlayToggled>뛰어놀기 구역 오버레이: {0}</NatureRunningZone_Debug_OverlayToggled>
-  <NatureRunningZone_Debug_OverlayHeader>뛰어놀기 구역 오버레이: {0}
+  <NatureRunningZone_Debug_OverlayToggled>안전한 뛰어놀기 오버레이: {0}</NatureRunningZone_Debug_OverlayToggled>
+  <NatureRunningZone_Debug_OverlayHeader>안전한 뛰어놀기 오버레이: {0}
 초록 유효, 노랑 너무 가까움, 빨강 무효, 회색 구역 차단</NatureRunningZone_Debug_OverlayHeader>
   <NatureRunningZone_Debug_ZoneBlocked>{0}: 차단됨 ({1})</NatureRunningZone_Debug_ZoneBlocked>
   <NatureRunningZone_Debug_ZoneTooFewCells>{0}: {1}/{2} ({3})</NatureRunningZone_Debug_ZoneTooFewCells>

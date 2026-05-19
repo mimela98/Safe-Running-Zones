@@ -2,7 +2,7 @@
 <LanguageData>
   <NatureRunningZone_Label>Nature running zone</NatureRunningZone_Label>
   <NatureRunningZone_Desc>Designate an area where children can run around for nature running learning.</NatureRunningZone_Desc>
-  <NatureRunningZone_SettingsCategory>Nature Running Zone</NatureRunningZone_SettingsCategory>
+  <NatureRunningZone_SettingsCategory>Safe Running Zones</NatureRunningZone_SettingsCategory>
   <NatureRunningZone_Settings_TerrainMode>Allowed terrain</NatureRunningZone_Settings_TerrainMode>
   <NatureRunningZone_Settings_NaturalOnly>Natural terrain only</NatureRunningZone_Settings_NaturalOnly>
   <NatureRunningZone_Settings_AllTerrain>All terrain</NatureRunningZone_Settings_AllTerrain>
@@ -14,8 +14,8 @@
   <NatureRunningZone_Settings_MinCells>Minimum valid zone cells: {0}</NatureRunningZone_Settings_MinCells>
   <NatureRunningZone_Debug_OverlayOn>on</NatureRunningZone_Debug_OverlayOn>
   <NatureRunningZone_Debug_OverlayOff>off</NatureRunningZone_Debug_OverlayOff>
-  <NatureRunningZone_Debug_OverlayToggled>Nature Running Zone overlay: {0}</NatureRunningZone_Debug_OverlayToggled>
-  <NatureRunningZone_Debug_OverlayHeader>Nature Running Zone overlay: {0}
+  <NatureRunningZone_Debug_OverlayToggled>Safe Running Zones overlay: {0}</NatureRunningZone_Debug_OverlayToggled>
+  <NatureRunningZone_Debug_OverlayHeader>Safe Running Zones overlay: {0}
 Green valid, yellow too close, red invalid, gray zone blocked</NatureRunningZone_Debug_OverlayHeader>
   <NatureRunningZone_Debug_ZoneBlocked>{0}: blocked ({1})</NatureRunningZone_Debug_ZoneBlocked>
   <NatureRunningZone_Debug_ZoneTooFewCells>{0}: {1}/{2} ({3})</NatureRunningZone_Debug_ZoneTooFewCells>

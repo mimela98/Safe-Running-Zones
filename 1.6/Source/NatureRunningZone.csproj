@@ -5,8 +5,8 @@
     <Nullable>enable</Nullable>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <OutputPath>..\Assemblies\</OutputPath>
-    <RootNamespace>FrostyDog.NatureRunningZone</RootNamespace>
-    <AssemblyName>NatureRunningZone</AssemblyName>
+    <RootNamespace>FrostyDog.SafeRunningZones</RootNamespace>
+    <AssemblyName>SafeRunningZones</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
